@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sachalevy39.github.io/MMfermetures/sitemap_MMFermetures.xml
